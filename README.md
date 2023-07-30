@@ -1,6 +1,13 @@
 # Hapi Web Server Dicoding
 
-Belajar Backend Javascript menggunakan library Hapi
+Belajar Backend Javascript menggunakan library Hapi melalui dicoding
+
+Cara menjalankan API ini:
+
+-   Clone repository ini.
+-   Jalankan perintah `npm install` untuk menginstall semua dependency.
+-   Jalankan perintah `npm run start dev` untuk menjalankan server.
+-   Buka `http://localhost:5000/` untuk mengakses server.
 
 ## End Point
 
